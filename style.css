@@ -197,6 +197,7 @@ nav,
     transform: translate(-50%, -50%);
     width: 100%;
     max-width: 1000px;
+    z-index: 100;
 }
 
 .header__para {
@@ -248,6 +249,7 @@ nav,
     bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
+    z-index: 1000;
 }
 
 .scroll__icon {
@@ -501,6 +503,7 @@ height: 70px;
     text-align: center;
     font-size: 48px;
     margin-bottom: 60px;
+    z-index: 1000;
 }
 
 .project {
@@ -615,6 +618,7 @@ footer {
 
 .shape {
     position: fixed;
+    z-index: 0;
 }
 
 .shape--0 {
