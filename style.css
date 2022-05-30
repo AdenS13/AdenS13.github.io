@@ -714,18 +714,6 @@ footer {
         text-align: center;
     }
 
-    .project__description--title {
-        position: relative;
-        left: 60px;
-    }
-
-    .small {
-        position: relative;
-        bottom: 1000px;
-        right: 150px;
-        opacity: 0;
-    }
-
     .project__description--sub-title {
         margin-bottom: 8px;
     }
