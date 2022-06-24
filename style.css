@@ -166,6 +166,10 @@ nav,
     color: white; 
 }
 
+.dark-theme .title--secondary {
+    color: #1366aa;
+}
+
 .dark-theme section {
     background-color: #242424;
 }
